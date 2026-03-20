@@ -34,7 +34,6 @@ cp scripts/run_partition.py /path/to/superpoint_transformer/
 | `dales_evaluation.ipynb` | Reproduction on DALES: per-class IoU, confusion matrix, purity analysis, superpoint size vs accuracy |
 | `vancouver_inference.ipynb` | Cross-domain transfer: DALES model on Vancouver, building confusion analysis |
 | `toronto3d_inference.ipynb` | Cross-domain transfer: DALES model on Toronto-3D |
-| `partition_sensitivity.ipynb` | Regularization sweep and feature ablation on Vancouver |
 
 The `scripts/run_partition.py` script is used by the partition sensitivity notebook to run each configuration in a separate subprocess (to avoid GPU memory accumulation).
 
