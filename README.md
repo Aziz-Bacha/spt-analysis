@@ -17,7 +17,7 @@ cd superpoint_transformer
 2. Download the pretrained DALES checkpoint from [Zenodo](https://zenodo.org/records/8042712) and place it in `models/`.
 
 3. Download the datasets:
-   - **DALES**: follow instructions at [go.udayton.edu/dales3d](https://udayton.edu/engineering/research/centers/vision_lab/research/was_data_analysis_and_processing/dale.php)
+   - **DALES**: Register at the [DALES request form](https://docs.google.com/forms/d/e/1FAIpQLSdl2Tag498Goc3yFPLllya3ICorYlcBcw3IQi9Lw-Wj9ow2jQ/viewform) and download `DALESObjects.tar.gz`
    - **Vancouver**: download a tile from [Vancouver LiDAR 2022](https://opendata.vancouver.ca/explore/dataset/lidar-2022/)
    - **Toronto-3D**: download from [GitHub](https://github.com/WeikaiTan/Toronto-3D)
 
